@@ -41,3 +41,19 @@ img{
 	margin: 10px;
 	width: 50%;
 }
+
+#imagen1 img {
+	filter: grayscale(80%);
+}
+
+#imagen2 img {
+	filter: blur(5px);
+}
+
+#imagen3 img {
+	filter: invert(100%);
+}
+
+#imagen4 img {
+	filter: sepia(80%);
+}
